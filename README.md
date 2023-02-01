@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/priscillalynn)](https://github.com/priscillalynn?tab=repositories) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+- 👨‍💻 All of my projects are available at [(https://github.com/priscillalynn)](https://github.com/priscillalynn?tab=repositories) <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://cdn-icons-png.flaticon.com/512/25/25231.png)" alt="c" width="20" height="20"/> </a> <a href="[https://www.w3schools.com/css/](https://github.com/priscillalynn?tab=repositories)" target="_blank" rel="noreferrer">
 
 - 💬 Ask me about **html, css, js, java**
 
