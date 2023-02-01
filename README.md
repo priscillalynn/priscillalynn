@@ -12,7 +12,7 @@
 - 💬 Ask me about **html, css, js, java**
 
 - 📫 How to reach me **priscillalynn.me**
-- 
+
 <h3 align="center">Connect with me!</h3>
 <p align="center">
 </p>
