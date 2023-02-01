@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/priscillalynn](https://github.com/priscillalynn)
+- 👨‍💻 All of my projects are available at (https://github.com/priscillalynn)
 
 - 💬 Ask me about **html, css, js, java**
 
 - 📫 How to reach me **priscillalynn.me**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 </p>
 
