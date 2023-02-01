@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects + solving leetcode problems**
 
-- 🌱 I’m currently learning **django, rest apis, + more**
+- 🌱 I’m currently learning **rest apis, database management + more**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
