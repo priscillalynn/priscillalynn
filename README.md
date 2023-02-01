@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 👨‍💻 All of my projects are available at <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3201587/github-alt-icon-md.png" alt="repos" width="30" height="30"/> </a> <a href="https://github.com/priscillalynn?tab=repositories" target="_blank" rel="noreferrer">
-
 - 💬 Ask me about **html, css, js, java**
 
 - 📫 How to reach me **priscillalynn.me**
