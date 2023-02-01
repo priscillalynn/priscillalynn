@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html, css, js, java**
 
-- 📫 How to reach me **priscillalynn.me**
+- 📫 How to reach me **(https://priscillalynn.github.io/)**
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
