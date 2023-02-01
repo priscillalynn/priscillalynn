@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priscilla</h1>
-<h3 align="center">a passionate frontend developer from florida</h3>
+<h1 align="center">Hi, I'm Priscilla</h1>
+<h3 align="center">a passionate cs student and aspiring web developer from florida</h3>
 
 - 🔭 I’m currently working on **personal projects + solving leetcode problems**
 
